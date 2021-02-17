@@ -1,8 +1,9 @@
 ## Personal Re-Deployment:
 Front-End: https://human-rights-first-asylum-fe.vercel.app/
+
 Back-End: https://hrf-asylum-api.herokuapp.com/
 
-If the deployment links stop working, it's because this was originally a school project that used the school's AWS and Okta resources.
+(If the deployment links stop working, it's because this was originally a school project that used the school's AWS and Okta resources.)
 
 # Human Rights First - Asylum - Back End
 
